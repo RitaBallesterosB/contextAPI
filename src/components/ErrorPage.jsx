@@ -29,5 +29,5 @@ export const ErrorPage = () => {
         </div>
       </section>
     </div>
-  )
+ )
 } 
