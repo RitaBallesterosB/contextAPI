@@ -10,6 +10,7 @@ export const Contact = () => {
       <h1>Contact</h1>
       <p>Esta es la página de Contacto</p>
       <p>Estos son los datos de contacto de: <strong>{nameContact.phone}</strong></p>
+      <p>Objeto: {JSON.stringify(nameContact)}</p>
     </div>
   )
 }
